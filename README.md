@@ -1,6 +1,8 @@
 <h1 align="center">Hola, soy Luis Carlos Ruiz Valencia</h1>
 <h3 align="center">Ingeniero QA especializado en pruebas manuales y automatización</h3>
 
+<hr />
+
 - 🎓 Certificaciones destacadas:  
   - <a href="https://platzi.com/p/ing.luisruizvalencia/curso/5679-playwright/diploma/detalle/" target="_blank"><strong>Automatización de pruebas con Playwright</strong></a> - Platzi (ID: 0c066114-c60e-4fe4-b487-14e6830a37a5) 
   - <a href="https://www.udemy.com/certificate/UC-JH6QK8PZ/" target="_blank"><strong>Docker de principiante a experto</strong></a> - Udemy (ID: UC-JH6QK8PZ) 
@@ -13,8 +15,9 @@
 - 🌟 Conocimientos técnicos:  
   - Herramientas: **SonarQube, JIRA, Jenkins, Postman**  
   - Tecnologías: **Playwright, Docker, Git,VMware,SQL**  
-
-- 📫 Cómo contactarme: **ing.luisruizvalencia@gmail.com**
+ 🌱 Investigador de nuevo conocimientos
+ 
+- 💬 Cómo contactarme: **ing.luisruizvalencia@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
