@@ -37,8 +37,8 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://iconape.com/sonarqube-logo-logo-icon-svg-png.html" alt="SonarQube" width="40" height="40"/>
+  <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jra" width="40" height="40"/>
     
   </a>
 </p>
