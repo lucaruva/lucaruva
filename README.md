@@ -16,7 +16,7 @@
   - Herramientas: **SonarQube, JIRA, Jenkins, Postman**  
   - Tecnologías: **Playwright, Docker, Git,VMware,SQL**  
  🌱 Investigador de nuevo conocimientos
- 
+
 - 💬 Cómo contactarme: **ing.luisruizvalencia@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
@@ -28,6 +28,15 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/>
+  </a>
+   <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
+  </a>
+  <a href="https://www.qmetry.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/qmetry/qmetry-icon.svg" alt="Qmetric" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -40,10 +49,7 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jra" width="40" height="40"/>
-    
-  </a>
+ 
 </p>
 
 
