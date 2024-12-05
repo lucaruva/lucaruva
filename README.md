@@ -2,8 +2,8 @@
 <h3 align="center">Ingeniero QA especializado en pruebas manuales y automatización</h3>
 
 - 🎓 Certificaciones destacadas:  
-  - **Automatización de pruebas con Playwright** - Platzi (ID: 0c066114-c60e-4fe4-b487-14e6830a37a5)  
-  - **Docker de principiante a experto** - Udemy (ID: UC-JH6QK8PZ)  
+  - <a href="https://platzi.com/p/ing.luisruizvalencia/curso/5679-playwright/diploma/detalle/" target="_blank"><strong>Automatización de pruebas con Playwright</strong></a> - Platzi (ID: 0c066114-c60e-4fe4-b487-14e6830a37a5) 
+  - <a href="https://www.udemy.com/certificate/UC-JH6QK8PZ/" target="_blank"><strong>Docker de principiante a experto</strong></a> - Udemy (ID: UC-JH6QK8PZ) 
 
 - 💻 Experiencia en:  
   - Pruebas manuales y de regresión  
@@ -12,9 +12,9 @@
 
 - 🌟 Conocimientos técnicos:  
   - Herramientas: **SonarQube, JIRA, Jenkins, Postman**  
-  - Tecnologías: **Network-Attached Storage (NAS), QA, Docker, Git**  
+  - Tecnologías: **Playwright, Docker, Git,VMware,SQL**  
 
-- 📫 Cómo contactarme: **luiscarlos.ruiz.valencia@gmail.com**
+- 📫 Cómo contactarme: **ing.luisruizvalencia@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
