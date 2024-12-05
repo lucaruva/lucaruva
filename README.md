@@ -38,7 +38,8 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" width="40" height="40"/>
+    <img src="https://iconape.com/sonarqube-logo-logo-icon-svg-png.html" alt="SonarQube" width="40" height="40"/>
+    
   </a>
 </p>
 
